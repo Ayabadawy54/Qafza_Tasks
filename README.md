@@ -1,14 +1,14 @@
 
 
-<h1>Qafza Machine Learning Systems and MLOps Training</h1>
+<h1>🚀Qafza Machine Learning Systems and MLOps Training</h1>
 
 <p>Welcome to my repository! This repo contains the tasks and projects I will complete during my intensive training journey with قفزة Qafza, focused on Machine Learning Systems and MLOps.</p>
 
-<h2>Training Overview</h2>
+<h2>✨Training Overview</h2>
 
 <p>This program aims to equip me with cutting-edge skills and hands-on experience in some of the most in-demand tools and technologies in the fields of AI, data engineering, and MLOps.</p>
 
-<h2>Key Topics Covered</h2>
+<h2>✔Key Topics Covered</h2>
 <ul>
     <li><strong>Bash & Command Line:</strong> Mastering the command line for efficient system navigation and task automation.</li>
     <li><strong>Mage:</strong> Learning to deploy and orchestrate machine learning models effectively.</li>
