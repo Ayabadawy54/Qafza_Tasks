@@ -1,0 +1,26 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.8
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.0
+mlflow_version: 2.19.0
+model_size_bytes: 147268
+model_uuid: 1d7e5b7735964e57a7af92d8ab0e5823
+run_id: 78e4204b4111469f81c60e61cf0c909b
+signature:
+  inputs: '[{"type": "double", "name": "variance", "required": true}, {"type": "double",
+    "name": "skewness", "required": true}, {"type": "double", "name": "curtosis",
+    "required": true}, {"type": "double", "name": "entropy", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2025-02-02 18:42:51.302682'

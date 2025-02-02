@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/AI/Projects/QafzaProjects/MLFlow/mlruns/0/78e4204b4111469f81c60e61cf0c909b/artifacts
+end_time: 1738521786338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78e4204b4111469f81c60e61cf0c909b
+run_name: casual-crow-196
+run_uuid: 78e4204b4111469f81c60e61cf0c909b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738521768931
+status: 3
+tags: []
+user_id: My Dreams

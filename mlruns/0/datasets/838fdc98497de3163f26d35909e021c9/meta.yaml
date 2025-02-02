@@ -1,0 +1,10 @@
+digest: 2a1ca2a6
+name: dataset
+profile: '{"num_rows": 275, "num_elements": 1100}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "variance", "required": true},
+  {"type": "double", "name": "skewness", "required": true}, {"type": "double", "name":
+  "curtosis", "required": true}, {"type": "double", "name": "entropy", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "My Dreams", "mlflow.source.name": "scripts\\\\train.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

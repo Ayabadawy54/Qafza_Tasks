@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/AI/Projects/QafzaProjects/MLFlow/mlruns/0/fae988ffec734608ac93f58290b4f149/artifacts
+end_time: 1738521832412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fae988ffec734608ac93f58290b4f149
+run_name: thundering-elk-562
+run_uuid: fae988ffec734608ac93f58290b4f149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738521816437
+status: 3
+tags: []
+user_id: My Dreams
